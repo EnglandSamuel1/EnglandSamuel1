@@ -3,9 +3,12 @@
 Building a **budget AI agent** and learning more about how agents think, plan, and act.  
 Exploring vector search, LLM tools, and anything that makes ideas come alive.
 
+Check out my project: [Finsight](https://finsightlandingpage-lilac.vercel.app/)
+
 📧 **EnglandSamuel1@gmail.com**
 
 Always down to connect or build something cool.
+
 
 
 
