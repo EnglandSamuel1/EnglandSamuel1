@@ -1,15 +1,12 @@
 # Hey, I'm Samuel 👋
 
-## What I'm doing now
-Working on a **budget AI agent** that keeps things smart, simple, and affordable. It’s helping me level up my skills with AI agents and how they think and act.
+Building a **budget AI agent** and learning more about how agents think, plan, and act.  
+Exploring vector search, LLM tools, and anything that makes ideas come alive.
 
-## Learning
-Digging deeper into AI agents, vector search, and LLM tooling.
-
-## Reach me
 📧 **EnglandSamuel1@gmail.com**
 
-Always down to chat, share ideas, or work on something cool.
+Always down to connect or build something cool.
+
 
 
 <!--
