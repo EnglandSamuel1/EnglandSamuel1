@@ -1,28 +1,14 @@
-# Hey, I'm Samuel 👋
+# Hey, I'm Samuel
 
-Building a **budget AI agent** and learning more about how agents think, plan, and act.  
-Exploring vector search, LLM tools, and anything that makes ideas come alive.
+I'm a full-stack engineer who builds AI products and iOS apps. At VehicleAI, I was one of two engineers building and shipping production AI agents, third-party integrations, and full-stack features with Python, React, and Google Cloud.
 
-Check out my project: [Finsight](https://finsightlandingpage-lilac.vercel.app/)
+## Featured work
 
-📧 **EnglandSamuel1@gmail.com**
+**Daily Mahj** · I designed, built, and launched an iOS app for learning American Mah Jongg that has reached 2,000+ downloads. I also built tools to validate daily puzzles before they go live, then used player feedback to make the card easier to read. [Website](https://dailymahj.app) · [App Store](https://apps.apple.com/us/app/daily-mahj-american-mah-jongg/id6798496314)
 
-Always down to connect or build something cool.
+## Public code
 
+- **[FinSight](https://github.com/EnglandSamuel1/FinSight)** · A budgeting app that imports bank CSVs, categorizes transactions, and helps users plan spending. Built with TypeScript, Next.js, and Supabase.
+- **[RAG Agent](https://github.com/EnglandSamuel1/RAG_Agent)** · A Python project that ingests PDFs in the background and answers questions using the retrieved passages. Built with FastAPI, Inngest, and Qdrant.
 
-
-
-<!--
-**EnglandSamuel1/EnglandSamuel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/samuelengland/) · [Email](mailto:EnglandSamuel1@gmail.com)
